@@ -1,0 +1,4 @@
+Number of instructions executed = 78
+Number of cycles taken = 3893
+Number of OF Stalls taken = 0
+Number of Wrong Instructions that entered pipeline = 16
